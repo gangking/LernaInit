@@ -1,10 +1,10 @@
-.lg-steps {
+.xg-steps {
   position: relative;
   display: flex;
   justify-content: space-between;
 }
 
-.lg-steps-line {
+.xg-steps-line {
   position: absolute;
   height: 2px;
   top: 50%;
@@ -15,7 +15,7 @@
   background: rgb(223, 231, 239);
 }
 
-.lg-step {
+.xg-step {
   border: 2px solid;
   border-radius: 50%;
   height: 32px;

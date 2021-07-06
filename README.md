@@ -92,7 +92,7 @@ module.exports = [
 运行打包
 
 ```bash
-yarn workspace lg-button run build
+yarn workspace xg-button run build
 ```
 
 ## 打包所有组件

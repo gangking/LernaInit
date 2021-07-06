@@ -1,8 +1,8 @@
 <template>
-  <div class="lg-steps">
-    <div class="lg-steps-line"></div>
+  <div class="xg-steps">
+    <div class="xg-steps-line"></div>
     <div
-      class="lg-step"
+      class="xg-step"
       v-for="index in count"
       :key="index"
       :style="{ color: active >= index ? activeColor : defaultColor }"
